@@ -74,4 +74,6 @@ Media monitoring companies often analyze a large volume of printed media article
 - OpenCV
 - BeautifulSoup
 - BERT (Bidirectional Encoder Representations from Transformers)
+- IBM Watson Studio : To create model Multi-Label Classifier
+- IBM COS : To store the training dataset
 
