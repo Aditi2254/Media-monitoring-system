@@ -1,6 +1,7 @@
 # SBSPS-Challenge-10322-1691072720
 Media Monitoring Multilabel Classification :Multi-label classification of printed media articles to topics
 # Media Monitoring Multilabel Classification
+Demo : https://www.youtube.com/watch?v=pu8lcp0aniA&ab_channel=PRKHARMISHRA
 
 ## Table of Contents
 - [Overview](#overview)
