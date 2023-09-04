@@ -69,11 +69,14 @@ Media monitoring companies often analyze a large volume of printed media article
 ## Technologies Used
 
 - Python
-- Django
-- React.js
-- OpenCV
-- BeautifulSoup
+- Django 
+- React.js (To create complete Frontend)
+- Tailwind css
+- OpenCV ( for Text Extraction from Image)
+- BeautifulSoup ( for Text Extraction from Webpage)
 - BERT (Bidirectional Encoder Representations from Transformers)
-- IBM Watson Studio : To create model Multi-Label Classifier
+- IBM Watson Studio : To create model Multi-Label Classification Model, Web Scraping, Sentiment Analysis, Keyword Extraction and Summarisation
 - IBM COS : To store the training dataset
+  
+![readme img](https://github.com/smartinternz02/SBSPS-Challenge-10322-1691072720/assets/136120437/0d961b3e-42cb-4b0a-9e40-3298876bee6d)
 
